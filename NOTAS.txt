@@ -1,0 +1,3 @@
+I like programming, specially back-end programming.
+I like quality assurance and finding how to break stuff.
+I like designing for accessibility and usability.
